@@ -1,0 +1,27 @@
+.app-form{
+    display: block;
+    width: 100%;
+}
+
+.app-form input,
+.app-form button{
+    padding: 5px;
+}
+
+.app-lists .column-list{
+    width: 100%;
+}
+
+.app-lists ul{
+    margin: 10px 0;
+    padding: 0;
+    list-style: none;
+}
+
+.app-lists ul li{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+}
